@@ -1,0 +1,10 @@
+C:\Users\Lance\Desktop\xiangmu\guichu\guichu\bin\Debug\guichu.exe.config
+C:\Users\Lance\Desktop\xiangmu\guichu\guichu\bin\Debug\guichu.exe
+C:\Users\Lance\Desktop\xiangmu\guichu\guichu\bin\Debug\guichu.pdb
+C:\Users\Lance\Desktop\xiangmu\guichu\guichu\obj\Debug\guichu.csprojAssemblyReference.cache
+C:\Users\Lance\Desktop\xiangmu\guichu\guichu\obj\Debug\guichu.Form1.resources
+C:\Users\Lance\Desktop\xiangmu\guichu\guichu\obj\Debug\guichu.Properties.Resources.resources
+C:\Users\Lance\Desktop\xiangmu\guichu\guichu\obj\Debug\guichu.csproj.GenerateResource.cache
+C:\Users\Lance\Desktop\xiangmu\guichu\guichu\obj\Debug\guichu.csproj.CoreCompileInputs.cache
+C:\Users\Lance\Desktop\xiangmu\guichu\guichu\obj\Debug\guichu.exe
+C:\Users\Lance\Desktop\xiangmu\guichu\guichu\obj\Debug\guichu.pdb
